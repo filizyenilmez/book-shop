@@ -1,1 +1,1 @@
-# book-shop
+![Project humbnail](./bookshop.jpg)
