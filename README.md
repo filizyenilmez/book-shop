@@ -1,1 +1,1 @@
-![Project humbnail](./bookshop.jpg)
+![Project humbnail](./bookshop.png)
